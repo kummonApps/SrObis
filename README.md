@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/srobis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="srobis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jordi obis farre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jordi obis farre" height="30" width="40" /></a>
-<a href="https://instagram.com/@srobis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@srobis" height="30" width="40" /></a>
+<a href="https://instagram.com/@sr.obis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@sr.obis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
